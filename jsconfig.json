@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "checkJs": true
+    },
+    "exclude": ["dist", "bin", "node_modules"]
+}
